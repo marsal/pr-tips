@@ -54,6 +54,8 @@ Algunas de las ventajas de utilizar Conventional Commits son:
 
 En resumen, utilizar Conventional Commits puede ser una práctica muy útil para mantener un historial de cambios más organizado y fácil de seguir en un proyecto de desarrollo.
 
+https://www.conventionalcommits.org/en/v1.0.0/#summary
+
 
 
 ## Proteger el repositorio GitHub
@@ -86,6 +88,12 @@ Puedes configurar las restricciones de rama para evitar que se realicen cambios 
 
 ![img_1.png](img_1.png)
 
+### 5. Configurar las Pull Request
+
+Podemos configurar como se hace merge por defecto de las PR en el apartado "Settings" -> "General" -> "Pull Request"
+
+![img.png](img.png)
+
 
 ## GitHub Actions
 
@@ -94,5 +102,7 @@ GitHub Actions es un sistema de automatización de tareas que se integra directa
 Los flujos de trabajo de GitHub Actions se definen en archivos YAML, lo que los hace altamente configurables y portátiles. Los flujos de trabajo pueden incluir múltiples pasos, como la compilación de código, la ejecución de pruebas, el despliegue a servidores remotos, entre otros.
 
 GitHub Actions viene con una amplia variedad de acciones predefinidas que se pueden usar directamente en los flujos de trabajo. También es posible crear acciones personalizadas para automatizar tareas específicas.
+
+Hay que activar las actions desde la pestaña "actions" del repositorio.
 
 
