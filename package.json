@@ -4,7 +4,8 @@
   "description": "Proyect con tips y ficheros para un buen uso de PRs",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "Marçal Sans",
