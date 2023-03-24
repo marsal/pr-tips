@@ -85,3 +85,14 @@ Puedes configurar las restricciones de rama para evitar que se realicen cambios 
 ¡Recuerda siempre mantener actualizadas las opciones de seguridad de tu repositorio y estar al tanto de las mejores prácticas para garantizar un código seguro y protegido! 
 
 ![img_1.png](img_1.png)
+
+
+## GitHub Actions
+
+GitHub Actions es un sistema de automatización de tareas que se integra directamente con GitHub. Permite ejecutar flujos de trabajo automatizados en respuesta a eventos específicos en un repositorio de GitHub, como la creación de una solicitud de extracción (pull request) o la publicación de una nueva versión.
+
+Los flujos de trabajo de GitHub Actions se definen en archivos YAML, lo que los hace altamente configurables y portátiles. Los flujos de trabajo pueden incluir múltiples pasos, como la compilación de código, la ejecución de pruebas, el despliegue a servidores remotos, entre otros.
+
+GitHub Actions viene con una amplia variedad de acciones predefinidas que se pueden usar directamente en los flujos de trabajo. También es posible crear acciones personalizadas para automatizar tareas específicas.
+
+
