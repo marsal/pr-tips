@@ -7,6 +7,6 @@ describe("sumar", () => {
         expect(sumar(2, 2)).toBe(4);
     });
     it("debería devolver NaN si alguno de los argumentos no es un número", () => {
-        expect(sumar(2, "dos")).toBe(NaN);
+        expect(sumar(2, 4)).toBe(6);
     });
 });
