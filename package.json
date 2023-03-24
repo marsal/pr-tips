@@ -1,0 +1,18 @@
+{
+  "name": "pr-tips",
+  "version": "1.0.0",
+  "description": "Proyect con tips y ficheros para un buen uso de PRs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Marçal Sans",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.5"
+  }
+}

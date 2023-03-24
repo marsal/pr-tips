@@ -10,13 +10,12 @@ Por favor, utiliza el siguiente formato para el título de la pull request:
 
 Donde:
 
-- `<tipo>` es uno de los tipos definidos en Conventional Commits, como "feat" para nuevas características, "fix" para correcciones de errores o "docs" para cambios en la documentación.
-- `[opcional alcance]` es una descripción opcional del alcance de los cambios realizados en la pull request.
 - `[PROYECTO-1234]` es el número del problema o tarea de Jira relacionado con la pull request.
+- `<tipo>` es uno de los tipos definidos en Conventional Commits, como "feat" para nuevas características, "fix" para correcciones de errores o "docs" para cambios en la documentación.
+- `[alcance]` es una descripción del alcance de los cambios realizados en la pull request.
 - `<descripción breve>` es una descripción breve y concisa de los cambios realizados en la pull request.
-- `[opcional cuerpo]` es una descripción más detallada.
 
-Ejemplo: feat(users): [PROYECTO-1234] agregar campo de fecha de nacimiento en formulario de registro
+Ejemplo: [PROYECTO-1234] feat(users): agregar campo de fecha de nacimiento en formulario de registro
 
 ## Cambios realizados
 - [ ] Agregué una nueva función que permite a los usuarios enviar correos electrónicos automáticamente.
