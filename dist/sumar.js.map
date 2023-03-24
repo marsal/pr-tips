@@ -1,0 +1,1 @@
+{"version":3,"file":"sumar.js","sourceRoot":"","sources":["../src/sumar.ts"],"names":[],"mappings":";AAAA,WAAW;;;AAEX,SAAgB,KAAK,CAAC,CAAS,EAAE,CAAS;IACtC,IAAI,KAAK,CAAC,CAAC,CAAC,IAAI,KAAK,CAAC,CAAC,CAAC,EAAE;QACtB,OAAO,GAAG,CAAC;KACd;IACD,OAAO,CAAC,GAAG,CAAC,CAAC;AACjB,CAAC;AALD,sBAKC"}
