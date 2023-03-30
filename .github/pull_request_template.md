@@ -30,5 +30,5 @@ Se probaron los siguientes casos de prueba:
 Cualquier comentario o sugerencia sobre estos cambios es bienvenido. Por favor, asegúrese de vincular cualquier problema de Jira relacionado con este pull request. Gracias por revisar este pull request.
   
 ## Docs PR
-Links
-Images
+- Links
+- Images
