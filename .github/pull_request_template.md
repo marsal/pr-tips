@@ -2,20 +2,11 @@
 
 Por favor, utiliza el siguiente formato para el título de la pull request:
 
-<tipo>[opcional alcance]: [PROYECTO-1234] <descripción breve>
+[PROYECTO o MIX?-1234] <tipo>[opcional alcance]: <descripción breve>
 
 [opcional cuerpo]
 
 [opcional pie de página]
-
-Donde:
-
-- `[PROYECTO-1234]` es el número del problema o tarea de Jira relacionado con la pull request.
-- `<tipo>` es uno de los tipos definidos en Conventional Commits, como "feat" para nuevas características, "fix" para correcciones de errores o "docs" para cambios en la documentación.
-- `[alcance]` es una descripción del alcance de los cambios realizados en la pull request.
-- `<descripción breve>` es una descripción breve y concisa de los cambios realizados en la pull request.
-
-Ejemplo: [PROYECTO-1234] feat(users): agregar campo de fecha de nacimiento en formulario de registro
 
 ## Cambios realizados
 - [ ] Agregué una nueva función que permite a los usuarios enviar correos electrónicos automáticamente.
@@ -32,3 +23,7 @@ Se probaron los siguientes casos de prueba:
 
 ## Comentarios adicionales
 Cualquier comentario o sugerencia sobre estos cambios es bienvenido. Por favor, asegúrese de vincular cualquier problema de Jira relacionado con este pull request. Gracias por revisar este pull request.
+  
+## Docs PR
+Links
+Images
