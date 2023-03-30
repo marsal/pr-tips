@@ -16,6 +16,11 @@ Por favor, utiliza el siguiente formato para el título de la pull request:
 ## Contexto
 Este pull request resuelve el problema [PROJ-1234](https://example-jira.com/browse/PROJ-1234). El objetivo es agregar una nueva funcionalidad que permita a los usuarios enviar correos electrónicos automáticamente.
 
+## DoD Checklist (No tengo claro si meterlo aqui o con el link al jira ya vale)
+- [ ] DoD item1
+- [ ] DoD item2
+- [ ] DoD item3
+  
 ## ¿Cómo se probó este cambio?
 Se probaron los siguientes casos de prueba:
 - Caso de prueba 1: Se envió un correo electrónico con éxito.
